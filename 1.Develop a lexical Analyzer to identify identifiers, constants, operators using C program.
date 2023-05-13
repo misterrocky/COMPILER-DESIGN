@@ -2,8 +2,7 @@
 #include<ctype.h>
 #include<string.h>
 int main()
-{
-	int i,ic=0,m,cc=0,oc=0,j;
+{       int i,ic=0,m,cc=0,oc=0,j;
 	char b[30],operators[30],identifiers[30],constants[30];
 	printf("enter the string : ");
 	scanf("%[^\n]s",&b);
