@@ -60,6 +60,7 @@ int main()
 	 {
         printf("%c ",identifiers[j]);
      }
+     
     printf("\n constants : ");
      for(j=0;j<cc;j++)
 	 {
